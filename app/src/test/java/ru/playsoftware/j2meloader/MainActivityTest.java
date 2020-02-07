@@ -1,5 +1,6 @@
 package ru.playsoftware.j2meloader;
 
+import android.os.Bundle;
 import org.junit.Test;
 
 public class MainActivityTest {
