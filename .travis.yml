@@ -1,6 +1,5 @@
 language: android
 jdk: oraclejdk8
-sudo: false
 
 android:
   components:
@@ -10,4 +9,4 @@ android:
     - android-24
     - extra-android-m2repository
 
-script: ./gradlew build
+script: bash ./gradlew build
